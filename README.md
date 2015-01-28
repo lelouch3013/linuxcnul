@@ -1,0 +1,2 @@
+# linuxcnul
+TRES TRES NUL
